@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE and Editor directories
+.vscode/
+.vs/
+.idea/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Test artifacts
+*.fcs
+restored_*
+
+# Distribution packages for teammates (kept local, not in Git)
+team_distribution_packages/
+push_to_github.bat
+
+
+

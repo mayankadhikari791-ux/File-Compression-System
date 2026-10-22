@@ -1,0 +1,13 @@
+The quick brown fox jumps over the lazy dog.
+File compression is the practice of packaging a file (or files) to use less disk space.
+Lossless compression means that every single bit of data that was originally in the file remains after the file is uncompressed.
+All information is completely restored.
+This is in contrast to lossy compression, which permanently eliminates certain redundant information.
+Huffman coding is a particular type of optimal prefix code that is commonly used for lossless data compression.
+The process of finding or using such a code proceeds by means of Huffman coding, an algorithm developed by David A. Huffman while he was a Sc.D. student at MIT.
+The technique works by creating a binary tree of nodes.
+These can be stored in a regular array, the size of which depends on the number of symbols.
+A node can be either a leaf node or an internal node.
+In Run-Length Encoding (RLE), sequences in which the same data value occurs in many consecutive data elements are stored as a single data value and count.
+File Compression System: Designed and implemented by Team of 4 Members!
+
